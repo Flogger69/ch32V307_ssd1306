@@ -2,3 +2,5 @@
 It is sample code to demonstrate using of Standart library on WCH CH32V307 MCU.
 It impements SSD1306 OLED Display.
 Code need to be tidied up and cleaned.
+
+Note: The main.c file is in User directory
